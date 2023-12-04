@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PulseChat</string>
+    <string name="facebook_app_id">645624430821944</string>
+    <string name="facebook_client_token">02f6e7439f969d03e40148ef90f72940</string>
+</resources>
